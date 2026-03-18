@@ -300,30 +300,30 @@ Marketing resources can be allocated based on segment profitability
 customer-segmentation-project
 
 customer-segmentation-project
-│
-├── data
-│   └── Customer_segment_raw.csv
-│
-├── notebooks
-│   └── CustomerSegmtatn.ipynb
-│
-├── images
-│   ├── Correlation_Matrix.png
-│   ├── Customer_Clusters_Using_PCA.png
-│   ├── Elbow_Method.png
-│   ├── Outlier_Detection.png
-│   ├── PCA_Projection_of_Customers.png
-│   ├── Power_Bi_Visualization_1.png
-│   └── Power_Bi_Visualization_2.png
-│
-├── dashboard
-│   └── Customer Segmentation Visuals In Power Bi.pbix
-│
-├── outputs
-│   └── customer_segments_results.csv
-│
-└── README.md
- 
+
+¦  
++-- data  
+¦   +-- Customer_segment_raw.csv  
+¦  
++-- notebooks  
+¦   +-- CustomerSegmtatn.ipynb  
+¦  
++-- images  
+¦   +-- Correlation_Matrix.png  
+¦   +-- Customer_Clusters_Using_PCA.png  
+¦   +-- Elbow_Method.png  
+¦   +-- Outlier_Detection.png  
+¦   +-- PCA_Projection_of_Customers.png  
+¦   +-- Power_Bi_Visualization_1.png  
+¦   +-- Power_Bi_Visualization_2.png  
+¦  
++-- dashboard  
+¦   +-- Customer Segmentation Visuals In Power Bi.pbix  
+¦  
++-- outputs  
+¦   +-- customer_segments_results.csv  
+¦  
++-- README.md  
 
 ---
 
