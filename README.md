@@ -297,13 +297,27 @@ Marketing resources can be allocated based on segment profitability
 
 ##  Project Files
 
-- [Notebook: CustomerSegmtatn](notebooks/CustomerSegmtatn.ipynb) – Preprocessing, clustering, PCA, and analysis  
-- [Raw Dataset](data/Customer_segment_raw.csv) – Original customer dataset  
-- [Power BI Dashboard](dashboard/Customer%20Segmentation%20Visuals%20In%20Power%20Bi.pbix) – Interactive customer segmentation visualizations  
-- [Output CSV](outputs/customer_segments_results.csv) – Segmented customer results  
-- [Images](images/) – Visualizations including correlation matrix, PCA projections, elbow method, cluster plots, and Power BI screenshots
+[K-Means Clustering Notebook](CustomerSegmtatn.ipynb)
 
----
+[Power Bi Dashboard] (Customer%20Segmentation%20Visuals%20In%20Power%20Bi.pbix)
+
+[Raw Data](Customer_segment_raw.csv)
+
+[Processed Data](customer_segments_results.csv)
+
+[Image](Correlation_Matrix.png) - Correlation_Matrix
+
+[Image](Customer_Clusters_Using_PCA.png) - Customer_Clusters_Using_PCA
+
+[Image](Elbow_Method.png) - Elbow_Method
+
+[Image](Outlier_Detection.png) - Outlier_Detection
+
+[Image](PCA_Projection_of_Customers.png) - PCA_Projection_of_Customers
+
+[Image](Power_Bi_Visualization_1.png) - Power_Bi_Visualization_1
+
+[Image](Power_Bi_Visualization_2.png) - Power_Bi_Visualization_2
 
 ## Conclusion
 
