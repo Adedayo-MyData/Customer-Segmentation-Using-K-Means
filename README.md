@@ -299,7 +299,7 @@ Marketing resources can be allocated based on segment profitability
 
 [K-Means Clustering Notebook](CustomerSegmtatn.ipynb)
 
-[Power Bi Dashboard] (Customer%20Segmentation%20Visuals%20In%20Power%20Bi.pbix)
+[Power Bi Dashboard](Customer%20Segmentation%20Visuals%20In%20Power%20Bi.pbix)
 
 [Raw Data](Customer_segment_raw.csv)
 
