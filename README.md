@@ -350,4 +350,4 @@ Several enhancements could further improve this project and increase its busines
 ## Author
 
 **Adedayo Adebayo**  
-Data Scientist | Business Analyst
+Data Analyst | ML Practitioner
